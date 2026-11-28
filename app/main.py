@@ -8,7 +8,7 @@ import joblib
 import pandas as pd
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
-
+from src.bikeprice.logging_utils import logger
 MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "model.joblib"
 
 
