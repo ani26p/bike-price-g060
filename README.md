@@ -9,10 +9,10 @@
 
 | Name | Enrolment No. | GitHub username |
 |---|---|---|
-| Vaishnavi Tyagi | S24CSEU0142 | <username> |
-| Aniket Pandit | S24CSEU1574 | <username> |
-| Vivan Rawat | S24CSEU1259 | <username> |
-| Parija Sharma Rajni Jangra | S24CSEU1826 | <username> |
+| Vaishnavi Tyagi | S24CSEU0142 | vtyagi-22 |
+| Aniket Pandit | S24CSEU1574 | ani26p |
+| Vivan Rawat | S24CSEU1259 | lowkeydumb |
+| Parija Sharma Rajni Jangra | S24CSEU1826 | ParijaSharma |
 
 ## Project summary
 
